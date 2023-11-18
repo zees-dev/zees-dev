@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm zees-dev</h1>
 
-
-- 🔭 I’m currently working on **Security Developing**
-
-
 [![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=ff0000)](https://github.com/zees-dev?tab=repositories&q=&type=&language=rust)
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://github.com/zees-dev?tab=repositories&q=&type=&language=go)
 [![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity&logoColor=ddc508)](https://github.com/zees-dev?tab=repositories&q=&type=&language=javascript)
