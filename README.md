@@ -11,8 +11,14 @@
 
 <h2 align="center">Github Stats</h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=zees-dev&show_icons=true&locale=en" alt="zees-dev" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zees-dev&" alt="zees-dev" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zees-dev&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=zees-dev&show_icons=true&locale=en" alt="zees-dev" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=zees-dev&" alt="zees-dev" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zees-dev&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Languages" />
+</p>
